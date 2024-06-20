@@ -5,3 +5,5 @@ This series is intended to spread awareness and knowledge about Data Science amo
 ## Kaggle Notebook Links
 1. [SONAR Mine Prediction](https://www.kaggle.com/code/manishkr1754/sonar-mine-problem)
 2. [Diabetes Prediction](https://www.kaggle.com/code/manishkr1754/diabetes-prediction-problem)
+
+**PS: The contents of this series are based on [30 Days-30 ML Challenge](https://github.com/manishkr1754/30_Days_30_ML_Projects_Challenge)**
